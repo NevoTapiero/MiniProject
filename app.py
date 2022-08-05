@@ -13,7 +13,8 @@ config = {
 	"storageBucket": "mini-project-1d2a7.appspot.com",
 	"messagingSenderId": "691958211021",
 	"appId": "1:691958211021:web:020066c15142e9828a6484",
-	"measurementId": "G-CNCP9MJZL3","databaseURL": "https://mini-project-1d2a7-default-rtdb.europe-west1.firebasedatabase.app/"
+	"measurementId": "G-CNCP9MJZL3",
+	"databaseURL": "https://mini-project-1d2a7-default-rtdb.europe-west1.firebasedatabase.app/"
 }
 
 firebase = pyrebase.initialize_app(config)

@@ -6,43 +6,774 @@ body {
   color: red;
 }
 .icon{
-width: 3%;
-height: 50px;
+  width: 3%;
+  height: 50px;
+}
+
+.picture{
+  height: 700px;
+  width: 100%;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  left: 0px;
+  top: 0px;
+}
+
+.pic1{
+  height: 187px;
+  width: 77px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  right: 280px;
+  bottom: 1450px;
+}
+
+.pic2{
+  height: 160px;
+  width: 50px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  right: 252px;
+  bottom: 1673px;
+}
+.pic3{
+  height: 152.5px;
+  width: 58px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  right: 234px;
+  bottom: 1875px;
+}
+
+.pic4{
+  height: 160px;
+  width: 144px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  right: 177.5px;
+  bottom: 933px;
+}
+
+
+
+.pic5{
+  height: 230px;
+  width: 70px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  right: 178.5px;
+  bottom: 1050px;
+}
+
+.pic6{
+  height: 217px;
+  width: 55px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  right: 215px;
+  bottom: 1980px;
+}
+
+.pic7{
+  height: 180x;
+  width: 55px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  right: 200px;
+  bottom: 2270px;
+}
+
+.pic8{
+  height: 240px;
+  width: 70px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  right: 214px;
+  bottom: 2270px;
+}
+
+.pic9{
+  height: 198px;
+  width: 48px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  right: 226px;
+  bottom: 2360px;
+}
+
+.pic10{
+  height: 210px;
+  width: 75px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  left: 85px;
+  bottom: 2771px;
+}
+
+.pic11{
+  height: 170px;
+  width: 50px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  left: 114px;
+  bottom: 3015px;
+}
+
+.pic12{
+  height: 162px;
+  width: 55px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  left: 130px;
+  bottom: 3225px;
+}
+
+.pic13{
+  height: 132px;
+  width: 35px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  left: 173px;
+  bottom: 3410px;
+}
+
+.pic14{
+  height: 160px;
+  width: 50px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  left: 150px;
+  bottom: 3512px;
+}
+
+.pic15{
+  height: 197px;
+  width: 85px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  left: 193px;
+  bottom: 1348px;
+}
+
+.pic16{
+  height: 190px;
+  width: 75px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  left: 159px;
+  bottom: 3625px;
+}
+
+.pic17{
+  height: 185px;o
+  width: 80px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  left: 195px;
+  bottom: 515px;
+}
+.pic18{
+  height: 174px;
+  width: 124px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  left: 192.5px;
+  bottom: 641px;
+}
+
+.pic19{
+  height: 230px;
+  width: 75px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  left: 154px;
+  bottom: 3692px;
+}
+
+.pic20{
+  height: 180px;
+  width: 52px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  left: 133px;
+  bottom: 3818px;
+}
+
+
+.pic21{
+  height: 180px;
+  width: 68px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  right: 78px;
+  bottom: 4190px;
+}
+
+.pic22{
+  height: 157px;
+  width: 50px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  right: 102px;
+  bottom: 4405px;
+}
+
+.pic23{
+  height: 157px;
+  width: 55px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  right: 121px;
+  bottom: 4605px;
+}
+
+.pic24{
+  height: 220px;
+  width: 51px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  right: 142px;
+  bottom: 4713px;
+
+}
+
+.pic25{
+  height: 148px;
+  width: 45px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  right: 157px;
+  bottom: 5005px;
+
+}
+
+.pic26{
+  height: 238px;
+  width: 70px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  right: 141px;
+  bottom: 5000px;
+
+}
+
+.pic27{
+  height: 184px;
+  width: 52px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  right: 130px;
+  bottom: 5080px;
+}
+
+.pic28{
+  height: 210px;
+  width: 75px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  left: 300px;
+  bottom: 5492px;
+}
+
+.pic29{
+  height: 165px;
+  width: 50px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  left: 273px;
+  bottom: 5732px;
+}
+
+.pic30{
+  height: 130px;
+  width: 35px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  left: 210px;
+  bottom: 5960px;
+}
+
+.pic31{
+  height: 155px;
+  width: 45px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  left: 234px;
+  bottom: 6060px;
+}
+
+.pic32{
+  height: 198px;
+  width: 66px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  left: 227px;
+  bottom: 6175px;
+}
+
+.pic33{
+  height: 235px;
+  width: 73px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  left: 231px;
+  bottom: 6250px;
+}
+
+.pic34{
+  height: 180px;
+  width: 55px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  left: 254px;
+  bottom: 6375px;
+}
+
+.pic35{
+  height: 170px;
+  width: 62px;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  position: relative;
+  left: 254px;
+  bottom: 6840px;
 }
 
 .div1{
-  margin:0%;
-  width: 10%;
+  background-color: red;
+  height: 700px;
+  width: 50%;
   text-align: center;
   padding-top: 100px;
   padding-bottom: 100px;
-
-}
-.div1 img{
-  height: 100%;
-  width: 80%;
-}
-.myDIV{
-  height: 80px;
-  width: 10%;
-  background-color: powderblue;
   position: relative;
-  left: 500px;
-  top: 100px
+  left: 420px;
+  top: 150px;
+
 }
 
-.Hover{
+
+
+
+.div1 .GoHover1 img{
   opacity: 0;
+  filter: alpha(opacity=0);
 }
-:hover .Hover  {
+
+.div1 .GoHover1 img:hover{
   opacity: 1;
-
-}
-.pic2 {
-  position: absolute;
-  height: 0px;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
 }
 
+.div1 .GoHover2 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover2 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover3 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover3 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover4 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover4 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover5 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover5 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover6 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover6 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover7 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover7 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover8 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover8 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover9 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover9 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover10 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover10 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover11 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover11 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover12 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover12 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover13 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover13 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover14 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover14 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover15 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover15 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover16 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover16 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover17 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover17 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover18 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover18 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover19 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover19 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover20 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover20 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover21 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover21 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover22 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover22 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover23 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover23 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover24 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover24 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover25 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover25 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover26 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover26 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover27 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover27 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover28 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover28 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover29 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover29 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover30 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover30 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover31 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover31 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover32 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover32 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover33 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover33 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover34 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover34 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
+
+.div1 .GoHover35 img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.div1 .GoHover35 img:hover{
+  opacity: 1;
+  transition: opacity .2s;
+  filter: alpha(opacity=100);   
+}
 
 .topnav {
   background-color: midnightblue;
